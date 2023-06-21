@@ -1,1 +1,2 @@
 this is file6.txt created at remote.
+temp1
